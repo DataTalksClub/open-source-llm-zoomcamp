@@ -1,5 +1,9 @@
 # Module 1: Introduction to Open-Source AI and LLMs
 
+<div align="center">
+  <img src="images/module-1-cover.png" alt="Module 1 Cover - Introduction to Open-Source AI and LLMs" width="800">
+</div>
+
 Welcome to Module 1 of the Open Source LLM Zoomcamp! In this module, we'll explore how to run and deploy these powerful models using AMD GPUs and modern cloud infrastructure.
 
 * Video Link (Coming Soon)
