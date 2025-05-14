@@ -48,7 +48,7 @@ This course might be a good fit if you:
 - Bonus: text-to-image models
 - Homework: Fine-tune a model
 
-### Final Project
+### [Final Project](/projects)
 You'll find a dataset you're interested in and fine-tune an open-source LLM for a specific domain (e.g. legal documents, medical data, or technical documentation) and deploy it so others can use it.
 
 ## How to Join?
@@ -57,6 +57,15 @@ We're starting in 2025! [Sign up here](https://airtable.com/apprlTIMJPOWhp2Kr/sh
 
 ## Your Instructor
 - [Alexey Grigorev](https://linkedin.com/in/agrigorev)
+
+## Coming Soon
+* Course Channel on DTC Slack
+* Telegram Channel with Announcements
+* Pre-launch Q&A Stream
+* Launch Stream with Course Overview
+* Course Google Calendar
+* FAQ
+* Course Playlist
 
 ## About DataTalks.Club
 
