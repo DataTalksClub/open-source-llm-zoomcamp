@@ -1,7 +1,7 @@
 # Module 2: Fine-Tuning LLMs and Domain Adaptation
 
 <div align="center">
-  <img src="images/module-2-cover.png" alt="Module 2 Cover - Fine-Tuning LLMs and Domain Adaptation" width="800">
+  <img src="/images/module-2-cover.png" alt="Module 2 Cover - Fine-Tuning LLMs and Domain Adaptation" width="800">
 </div>
 
 Welcome to Module 2 of the Open Source LLM Zoomcamp! In this module, we'll explore fine-tuning Large Language Models (LLMs) and adapting them to specific domains using Llama Factory.
