@@ -33,7 +33,7 @@ This course might be a good fit if you:
 - Introduction to ROCm and AMD GPUs
 - ROCm vs CUDA
 - Setting up Saturn Cloud for ROCm + MI300x
-- Running Deep Seek R1 (tutorial)
+- Running DeepSeek R1 (tutorial)
 - Build a simple Streamlit chat app
 - Serving LLMs with vLLM
 - Homework: Run and serve an LLM on Saturn Cloud
@@ -43,12 +43,12 @@ This course might be a good fit if you:
 - Llama Factory workflow
 - Using Llama Factory for fine-tuning
 - Preparing a dataset
-- Fine-tuning Deep Seek R1 (tutorial)
+- Fine-tuning DeepSeek R1 (tutorial)
 - Improving the chatbot from module 1
 - Bonus: text-to-image models
 - Homework: Fine-tune a model
 
-## Final Project
+### Final Project
 You'll find a dataset you're interested in and fine-tune an open-source LLM for a specific domain (e.g. legal documents, medical data, or technical documentation) and deploy it so others can use it.
 
 ## How to Join?
