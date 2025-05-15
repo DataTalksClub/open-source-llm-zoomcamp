@@ -14,6 +14,14 @@ Welcome to the Open-Source LLM Zoomcamp, where we'll explore how to build, tune,
 <a href="https://airtable.com/apprlTIMJPOWhp2Kr/shrYO3Dcm6RN9f4Ko"><img src="https://user-images.githubusercontent.com/875246/185755203-17945fd1-6b64-46f2-8377-1011dcb1a444.png" height="50" /></a>
 </p>
 
+<p align="center">
+<a href="https://datatalks.club/slack.html">Join Slack</a> •
+<a href="https://app.slack.com/client/T01ATQK62F8/C08SAKRM62X">#course-open-source-llm Channel on Slack</a> •
+<a href="https://t.me/oss_llm_zoomcamp">Telegram Announcements Channel</a> •
+<a href="https://docs.google.com/document/d/15VjNRxif6z9WEIMB43b8bVmpPtsHjhIm4WgyA53OvH8/edit?usp=sharing">FAQ</a> •
+<a href="https://twitter.com/intent/tweet?text=Check%20out%20Open-Source%20LLMs%20Zoomcamp!%0A%0AIt's%20a%20free%20mini-course%20to%20build%2C%20fine-tune%2C%20and%20deploy%20open-source%20LLMs!%0A%0ALearn%20more%20here%3A%20https%3A%2F%2Fgithub.com%2FDataTalksClub%2Fopen-source-llm-zoomcamp">Tweet about the Course</a>
+</p>
+
 ## Who Is This For?
 
 This course might be a good fit if you:
