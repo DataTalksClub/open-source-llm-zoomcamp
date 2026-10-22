@@ -6,17 +6,13 @@
 Build, scale and monitor agents that run GPU image, video and audio models on Nebius Serverless AI. Free, open-source (MIT), project-based.
 </p>
 
-<p align="center">
-(Also known as <em>Production AI: Agents + Generative Media</em>)
-</p>
-
 > How do you build a production AI system when an agent can launch expensive, slow, failure-prone GPU workloads that produce large media artifacts?
 
 In this course you build one production system that handles it: a **Personalized Media Factory**. A record (customer, product, user) goes in. An agent writes the copy, generates an image plus a voice or video asset, evaluates the result, regenerates on failure, and scales from 1 to 1,000+ records with a cost line per asset.
 
 Two datasets ship with the course: a **Santa gift-card run** and a **non-seasonal product catalog to ad creative run**.
 
-* 4 modules over 5 weeks (Module 1 is two weeks) · ~8–10 h/week · free · open-source · project-based
+* 4 modules over 5 weeks (Module 1 is two weeks) · ~8-10 h/week · free · open-source · project-based
 * Week 1: Make it work
 * Week 2: Make it intelligent
 * Week 3: Make it scale
@@ -61,7 +57,7 @@ Scale batch media generation.
 * Failure engineering: break 11 things, then retry / timeout / fallback / checkpoint / resume / idempotency / dead-letter; kill → resume proof
 * Cost engineering: cost-per-request model, cost-aware agent (cheap draft → evaluate → expensive)
 * Performance optimization: quality/latency/cost frontier, benchmark sweeps
-* Homework 3: Santa Scale Challenge — Media Edition (100 → 1,000 children, leaderboard)
+* Homework 3: Santa Scale Challenge - Media Edition (100 → 1,000 children, leaderboard)
 
 ### [Module 4: Evaluation, Observability and Production](/04-evaluation-observability-production)
 
@@ -82,7 +78,7 @@ A production multimodal agent that uses at least 2 GPU media models, peer-review
 * MLOps and platform engineers who own the batch pipeline, scheduling and cost
 * Founders and small teams paying per-call media APIs who want to know when self-hosting wins
 
-Medium-advanced level. Application only, limited seats — tell us what you are building.
+Medium-advanced level. Application only, limited seats - tell us what you are building.
 
 ## Prerequisites
 
@@ -100,17 +96,17 @@ Application only, limited seats. Tell us what you are building. We review every 
 
 * Welcome session: Tue 10 Nov 2026
 * Course starts: Mon 17 Nov 2026 · apply by Wed 26 Nov 2026
-* Module 1 (two weeks): 17–30 Nov 2026 (through Sun 30 Nov)
-* Module 2: 1–7 Dec 2026
-* Module 3: 8–14 Dec 2026
-* Module 4: 15–21 Dec 2026
+* Module 1 (two weeks): 17-30 Nov 2026 (through Sun 30 Nov)
+* Module 2: 1-7 Dec 2026
+* Module 3: 8-14 Dec 2026
+* Module 4: 15-21 Dec 2026
 * Course ends: Sun 21 Dec 2026
 * Capstone due: Fri 15 Jan 2027
 
 ## Your Instructors
 
 * Nebius DevRel team (course content and delivery)
-* [Alexey Grigorev](https://linkedin.com/in/agrigorev) (DataTalksClub — course logistics and community)
+* [Alexey Grigorev](https://linkedin.com/in/agrigorev) (DataTalksClub - course logistics and community)
 
 ## About DataTalks.Club
 
