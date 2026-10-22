@@ -1,15 +1,32 @@
-# Final Project
+# Capstone Project: Production Multimodal Agent
 
-The goal of this project is to fine-tune and deploy an open-source Large Language Model (LLM) for a specific domain application.
+Build a production multimodal agent and share it publicly. The capstone starts in Module 1 and is due **15 Jan 2027**.
 
-## Problem Statement
+## Requirements
 
-Build an end-to-end LLM application by:
+* A production multimodal agent that uses **at least 2 GPU media models** (any combination of image, video, audio)
+* An **async workload**: the agent orchestrates long-running GPU jobs (job IDs, state persistence, resume — not blocking calls)
+* **Evaluation**: a golden set plus a regression gate, at system, agent and media layers
+* **Observability**: a trace per request that answers "why this cost / why this long", plus metrics, logs and a dashboard
+* Run it on **Nebius Serverless AI** (Jobs, Endpoints) as the reference execution layer
+* Code is open-source (MIT), OpenAI- and S3-compatible
 
-* Selecting a dataset for a specific domain (e.g., legal documents, medical data, technical documentation)
-* Creating a data processing pipeline to prepare the data for fine-tuning
-* Fine-tuning an open-source LLM (e.g., Llama 2, Mistral, or other suitable models)
-* Deploying the model with an API endpoint
-* Building a simple interface to interact with the model
+## Datasets
+
+Two datasets ship with the course — pick one or bring your own records:
+
+* **Santa gift-card run** (seasonal): personalized gift cards + media for a list of children
+* **Product catalog to ad creative** (non-seasonal): catalog rows in, ad image + voice/video asset out
+
+## Review
+
+* Capstones are **peer-reviewed** against an 8-area rubric (covering the system, agent and media layers plus cost, reliability, observability, reproducibility and presentation)
+* To pass, submit your project, review peers, and share your work publicly
+
+## Timeline
+
+* Start: Module 1 (week of 17 Nov 2026) — pick your records and get the first GPU generation working
+* Course ends: 15 Dec 2026
+* Capstone due: 15 Jan 2027 (two attempts window covers the holidays)
 
 (More details coming soon)
