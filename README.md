@@ -16,7 +16,7 @@ In this course you build one production system that handles it: a **Personalized
 
 Two datasets ship with the course: a **Santa gift-card run** and a **non-seasonal product catalog to ad creative run**.
 
-* 4 weeks · ~8–10 h/week · free · open-source · project-based
+* 4 modules over 5 weeks (Module 1 is two weeks) · ~8–10 h/week · free · open-source · project-based
 * Week 1: Make it work
 * Week 2: Make it intelligent
 * Week 3: Make it scale
@@ -98,10 +98,14 @@ Application only, limited seats. Tell us what you are building. We review every 
 
 ## Dates
 
-* Welcome session: 10 Nov 2026
-* Course starts: 17 Nov 2026 · apply by 26 Nov 2026
-* Course ends: 15 Dec 2026
-* Capstone due: 15 Jan 2027
+* Welcome session: Tue 10 Nov 2026
+* Course starts: Mon 17 Nov 2026 · apply by Wed 26 Nov 2026
+* Module 1 (two weeks): 17–30 Nov 2026 (through Sun 30 Nov)
+* Module 2: 1–7 Dec 2026
+* Module 3: 8–14 Dec 2026
+* Module 4: 15–21 Dec 2026
+* Course ends: Sun 21 Dec 2026
+* Capstone due: Fri 15 Jan 2027
 
 ## Your Instructors
 
