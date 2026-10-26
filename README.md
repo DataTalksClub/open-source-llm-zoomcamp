@@ -13,10 +13,10 @@ In this course you build one production system that handles it: a **Personalized
 Two datasets ship with the course: a **Santa gift-card run** and a **non-seasonal product catalog to ad creative run**.
 
 * 4 modules over 5 weeks (Module 1 is two weeks) · ~8-10 h/week · free · open-source · project-based
-* Week 1: Make it work
-* Week 2: Make it intelligent
-* Week 3: Make it scale
-* Week 4: Make it production-ready
+* Module 1: Make it work
+* Module 2: Make it intelligent
+* Module 3: Make it scale
+* Module 4: Make it production-ready
 
 ## What You'll Learn
 
