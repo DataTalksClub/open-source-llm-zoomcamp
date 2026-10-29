@@ -1,12 +1,12 @@
 # Production AI Agents for Generative Media - 2026 Cohort
 
 * Welcome session: Tue 10 Nov 2026
-* Course starts: Mon 17 Nov 2026 · apply by Wed 26 Nov 2026
-* Module 1 (two weeks): 17-30 Nov 2026 (through Sun 30 Nov)
-* Module 2: 1-7 Dec 2026
-* Module 3: 8-14 Dec 2026
-* Module 4: 15-21 Dec 2026
-* Course ends: Sun 21 Dec 2026
+* Course starts: Mon 16 Nov 2026 · apply by Wed 26 Nov 2026
+* Module 1 (two weeks): Mon 16 – Sun 29 Nov 2026
+* Module 2: Mon 30 Nov – Sun 6 Dec 2026
+* Module 3: Mon 7 – Sun 13 Dec 2026
+* Module 4: Mon 14 – Sun 20 Dec 2026
+* Course ends: Sun 20 Dec 2026
 * Capstone due: Fri 15 Jan 2027
 
 Coming soon:

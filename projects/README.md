@@ -25,9 +25,9 @@ Two datasets ship with the course — pick one or bring your own records:
 
 ## Timeline
 
-* Start: Module 1 (two weeks, 17–30 Nov 2026) — pick your records and get the first GPU generation working
-* Modules 2–4 (weekly): 1–21 Dec 2026
-* Course ends: Sun 21 Dec 2026
+* Start: Module 1 (two weeks, Mon 16 – Sun 29 Nov 2026) — pick your records and get the first GPU generation working
+* Modules 2–4 (weekly): Mon 30 Nov – Sun 20 Dec 2026
+* Course ends: Sun 20 Dec 2026
 * Capstone due: 15 Jan 2027 (two attempts window covers the holidays)
 
 (More details coming soon)
