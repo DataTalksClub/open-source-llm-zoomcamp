@@ -8,7 +8,7 @@ Free · open-source (MIT) · project-based · by Nebius × DataTalks.Club
 </p>
 
 <p align="center">
-<b>Starts Mon 16 Nov 2026 · Apply by Mon 30 Nov 2026 · <a href="https://courses.datatalks.club/register/production-ai-agents-generative-media/">Apply here</a></b>
+<b>Starts Mon 16 Nov 2026 · <a href="https://courses.datatalks.club/register/production-ai-agents-generative-media/">Apply here</a></b>
 </p>
 
 > How do you build a production AI system when an agent can launch expensive, slow, failure-prone GPU workloads that produce large media artifacts?
